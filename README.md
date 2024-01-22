@@ -1,7 +1,3 @@
-# BESTQR
-
-- Add "MAPS_API_KEY=AIzaSyCCe33TEJupZ_P0rdWR3tkAuCQKK0p2MLc" To the local.properties in Android studio
-
 - # BESTQR
 QR Hunter App
 
@@ -38,4 +34,8 @@ The app will simulate a game environment, providing a fun and interactive experi
 Contributing
 
 We welcome contributions! If you find any issues or have ideas for enhancements, please open an issue or submit a pull request.
+
+- #Dependencies
+
+- Add "MAPS_API_KEY=AIzaSyCCe33TEJupZ_P0rdWR3tkAuCQKK0p2MLc" To the local.properties in Android studio
 
